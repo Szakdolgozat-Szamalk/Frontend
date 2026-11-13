@@ -1,0 +1,1 @@
+# Gamifikált Önfejlesztő alkalmazás Frontend
